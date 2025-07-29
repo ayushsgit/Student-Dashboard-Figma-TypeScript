@@ -1,1 +1,1 @@
-#Student Dashboard made using TypeScript
+# Student Dashboard made using TypeScript
